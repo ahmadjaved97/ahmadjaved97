@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Javed</h1>
-<h3 align="center">A machine learning engineer working in Gurugram, India</h3>
+<h3 align="center">A Master's(Computer Science) student at the University of Bonn, Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
